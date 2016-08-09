@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:id="@+id/rl_jie"
+        android:layout_width="match_parent"
+        android:layout_height="80dp" >
+
+        <com.example.view.CircleImageView
+            android:id="@+id/iv_jie_head"
+            android:layout_width="36dp"
+            android:layout_height="36dp"
+            android:layout_centerVertical="true"
+            android:src="@drawable/default_head" />
+
+        <TextView
+            android:id="@+id/tv_jie_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dp"
+            android:layout_toRightOf="@id/iv_jie_head"
+            android:textColor="@color/black"
+            android:textSize="14sp"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:layout_width="60dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_toRightOf="@id/tv_jie_name"
+            android:scaleType="centerInside"
+            android:src="@drawable/sealer" />
+    </RelativeLayout>
+
+</LinearLayout>

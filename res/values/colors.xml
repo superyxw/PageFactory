@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+    <resources>
+        <!-- <color name="blue">#1c87ff</color> 
+        <color name="blue">#55c2e5</color>-->
+        <color name="blue">#08a4df</color>
+        <color name="light_blue">#acb6c5</color>
+        <color name="blue_iron">#73a1fd</color>
+        <color name="battery">#807d7d</color>
+        <color name="gray_text">#666666</color>
+        <color name="light_gray_text">#999999</color>
+        <color name="black_text">#333333</color>
+        <color name="black">#000000</color>
+        <color name="gray">#f5f5f5</color>
+        <color name="gray_line">#e5e5e5</color>
+        <color name="white">#ffffff</color>
+        <color name="white_transparent">#cfffffff</color>
+        <color name="white_transparent_middle">#44ffffff</color>
+        <color name="red">#ff0000</color>
+        <color name="gray_bookinfo">#f7f7f7</color>
+        <color name="green">#45595d</color>
+        <color name="black_transparent">#7f000000</color>
+        <color name="black_transparent_darker">#e6000000</color>
+        <color name="black_transparent_middle">#af000000</color>
+        <color name="light_green">#f2fcfa</color>
+        <color name="red_renqi">#fef5f9</color>
+        <color name="orange_lulu">#fef4e5</color>
+        <color name="purple">#f6f5fa</color>
+        <color name="gray_classify">#eeeeee</color>
+        <color name="blue_zhuishu">#459fe4</color>
+        <color name="orange_lulu_dark">#ffa726</color>
+        <color name="green_qiandao">#09908f</color>
+        <color name="orange_dashang">#fe7e03</color>
+        <color name="read_yellow">#f4efd5</color>
+        <color name="read_green">#9ebea2</color>
+        <color name="red_wa">#a40000</color>
+        <color name="gray_transparent">#ccc9c9c9</color>
+        <color name="gray_task">#c9c9c9</color>
+        <color name="green_copper">#0bcb6f</color>
+        <color name="yellow_silver">#fda143</color>
+        <color name="red_golden">#ff1413</color>
+        <color name="purple_diamond">#cf19a1</color>
+		<color name="orange_dot">#f4c600</color>
+		<color name="red_dot">#FF6699</color>
+		<color name="blue_dot">#3398ff</color>
+		<color name="green_dot">#66CC00</color>
+		<color name="writer_say_normal">#ebe5cf</color>
+		<color name="writer_say_night">#181818</color>
+		<color name="writer_say_green">#94B894</color>
+		<color name="transparent">#00000000</color>
+        <color name="pink">#feaaaa</color>
+    </resources>
